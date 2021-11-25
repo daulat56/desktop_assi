@@ -1,0 +1,2 @@
+ # wishme()
+    # takecommand()
